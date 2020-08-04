@@ -1,1 +1,1 @@
-# JQuery---Animations_et_effets
+# JQuery-Animations_et_effets
